@@ -81,11 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Selamat Datang
+                    Tentang Kami
                 </div>
                 <div class="links">
-                    <a href="/halaman utama">Halaman Utama</a>
-                    <a href="{{ _('tentang') }}">Tentang Kami</a>
+                    <a href="/">Halaman Utama</a>
+                    <a href="/tentang">Tentang Kami</a>
                     <a href="/dataperpus">Data Perpustakaan</a>
                 </div>
             </div>
